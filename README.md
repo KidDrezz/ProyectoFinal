@@ -1,5 +1,5 @@
 # ProyectoFinal
-Este es el proyecto de telecomunicaciones, con contenedores. Para iniciar esta práctica, primero debes  clonar el repositorio con el siguiente comando: git clone https://github.com/KidDrezz/ProyectoFinal.git. 
+Este es el proyecto final de andres echeverri amaya 0001333099, con contenedores. Para iniciar esta práctica, primero debes  clonar el repositorio con el siguiente comando: git clone https://github.com/KidDrezz/ProyectoFinal.git. 
 
 Para iniciar el contenedor, ejecute el siguiente comando: sudo docker build t finalproject: 01.
 
